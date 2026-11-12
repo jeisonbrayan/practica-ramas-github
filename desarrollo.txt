@@ -1,0 +1,7 @@
+Archivo de desarrollo
+
+Este archivo fue creado en la rama dev para demostrar el manejo de ramas en GitHub.
+
+La rama main se utiliza como rama principal y la rama dev se utiliza para realizar cambios durante el desarrollo.
+
+Estudiante: Jeisson Brayan Escalante Guillermo
